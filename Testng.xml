@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing_Suite" >
+
+	
+	<test name="RegressionTest">
+	
+		<classes>
+					<class name="BDD.Cucumber.TestRunner"></class>
+		           
+					
+			
+			</classes>
+			
+		
+	</test>
+	
+	
+	
+	
+	
+</suite>
